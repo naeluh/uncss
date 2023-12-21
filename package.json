@@ -43,7 +43,7 @@
         "glob": "^7.2.3",
         "is-absolute-url": "^3.0.3",
         "is-html": "^2.0.0",
-        "jsdom": "^17.0.0",
+        "jsdom": "^23.0.1",
         "lodash": "^4.17.21",
         "postcss": "^8.4.22",
         "postcss-selector-parser": "^6.0.11"
